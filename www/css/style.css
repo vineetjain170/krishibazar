@@ -1,0 +1,33 @@
+/* Empty. Add your own CSS if you like */
+#mainCredentialsContainer{
+
+    background: rgba(76, 175, 80, 0.7);
+    width: calc(100% - 20px);
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+#headingMain{
+
+    text-align: center;
+    font-family: arial;
+
+}
+#registerButton{
+
+    margin:0 auto; 
+    display:block;
+    background: rgba(51,0,51, 0.5);
+    width: calc(100% - 100px);
+    color: white;
+
+}
+#forgotPassword{
+
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(50,50,50,1);
+
+}
